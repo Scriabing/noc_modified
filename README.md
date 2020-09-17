@@ -1,6 +1,6 @@
 # noc_modified 
-## author scriabing ##
-## mail: zhuyingxuan@iie.ac.cn ##
+'author: scriabing'
+'mail: zhuyingxuan@iie.ac.cn'
 
 1.modify the noc module of NVDLA by adding  more read and write ports
 
