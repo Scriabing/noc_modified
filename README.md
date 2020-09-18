@@ -8,4 +8,4 @@ feedback : `zhuyingxuan@iie.ac.cn`
 
 
 ps:
-If you want to verify the origin noc from nvdla/hw , please conmend out the CH7_rd&CH3_wr in tasks.vh , and modify the module port in tb
+If you want to verify the origin noc from nvdla/hw , please commend out the CH7_rd&CH3_wr in tasks.vh  and modify the module port in tb.
